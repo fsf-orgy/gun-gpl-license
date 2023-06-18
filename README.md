@@ -2,7 +2,7 @@
 
 A parody of the `GNU General Public License version 3` from `The Free Software Foundation`.
 
-License text: [./GUN_GPL.md](./LICENSE.md)
+License text: [./GUN_GPL.md](./GUN_GPL.md)
 
 
 
