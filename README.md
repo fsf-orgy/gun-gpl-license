@@ -1,6 +1,8 @@
 # GUN General Public License (GUN GPL)
 
-A parody of the `GNU General Public License version 3` from `The Free Software Foundation`.
+A parody of the `GNU General Public License version 3` from the `Free Software Foundation`.
+
+This work is not made or endorsed by the `Free Software Foundation`. Also, in this document, `FSF` may refer to the `Fucking Software Freedom` fictitious organization.
 
 License text: [./GUN_GPL.md](./GUN_GPL.md)
 
