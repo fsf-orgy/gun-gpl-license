@@ -32,8 +32,6 @@ If you release this license with another name, you need to change the first line
 
 I grant you all rights on the preamble of the GUN GPL license, including the right to re-use in another project, to redistribute it, possibly modified, blahblahblah and so on, without the need to credit my pseudonym, nor where you found it, but that would be much appreciated. You are responsible for what you do with it, however, I am not your mother.
 
-Though, if you live in a country where people are susceptible, and judges corrupted, you may or may not want to remove the preamble and instructions-for-use texts, in order to avoid a defamation lawsuit.
-
 For the license terms, [the FSF states "you can legally use the GPL terms (possibly modified) in another license (under conditions)"](https://www.gnu.org/licenses/gpl-faq.en.html#ModifyGPL). The GUN GPL meet those conditions.
 
 
