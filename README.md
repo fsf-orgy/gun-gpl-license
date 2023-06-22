@@ -42,6 +42,28 @@ If you have more humor than me, you can suggest changes to the preamble or instr
 
 
 
+## Convince me of the EVIL of the FSF and GNU GPL
+
+[Quote from the FSF:](https://directory.fsf.org/wiki/License:NASA-OSA_v1.3)
+> The NASA Open Source Agreement, version 1.3, is not a free software license because it includes a provision requiring changes to be your “original creation”. Free software development depends on combining code from third parties, and the NASA license doesn't permit this.
+Ironic, since the GNU GPL does not permit this either. They only make an exception for programs released/releasable under the GNU GPL.
+
+To add injury to the insult, they also ask you to harass the NASA:
+> In addition, if you are a United States citizen, please write to NASA and call for the use of a truly free software license.
+
+
+
+## Is this the only evil free license?
+
+No.
+
+We urge you to avoid using any license that is not as clear and concise as how it is explained to you, unless you have fully read it twice, are sure you understand it, asked three different lawyers, and read it again two more times.
+
+For instance, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode):
+Clause `1c` of the license defines `BY-SA Compatible License` as a license that is not necessarily compatible with `BY-SA`, and any license CC deem appropriate. They combine this trickery with clause `3b1` that allow the license of your work to be changed to one of those. You are effectively surrendering to CC the right to choose under what license your work is released.
+
+
+
 ## Legal Dislaimer
 
 ANYTHING FROM THIS DOCUMENT CANNOT BE CONSIDERED A LEGAL ADVICE, AND I CANNOT BE HELD LIABLE FOR ANY USE YOU MAKE OF IT.
